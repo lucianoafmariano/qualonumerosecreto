@@ -9,7 +9,10 @@ Este projeto foi desenvolvido durante o curso de Iniciaçao a Programaçao do Or
 # Como funciona?
 Ao brir o jogo, é sorteado um número automaticamente e o jogador vai realizando chutes, e cada tentativa errada é informado se o número secreto é maior ou menor, e quando o jogador acerta, é informado que acertou. 
 
-# Link para acesso:
+# Acesse e jogue
+https://vercel.com/luciano-marianos-projects/qualonumerosecreto
+
+# Link do projeto:
 https://github.com/lucianoafmariano/qualonumerosecreto
 
 Versao 1.0
