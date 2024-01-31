@@ -10,7 +10,7 @@ Este projeto foi desenvolvido durante o curso de Iniciaçao a Programaçao do Or
 Ao brir o jogo, é sorteado um número automaticamente e o jogador vai realizando chutes, e cada tentativa errada é informado se o número secreto é maior ou menor, e quando o jogador acerta, é informado que acertou. 
 
 # Link para acesso:
-https://brunoaneves.github.io/Challenge-ONE-Sprint-01/
+https://github.com/lucianoafmariano/qualonumerosecreto
 
 Versao 1.0
 Data: 30/01/2024
