@@ -1,6 +1,6 @@
-# Oracle One Alura - Descubra o número
+# Descubra o número
 
-Jogo para descobrir o número dentro de um determinado intervalo, onde o número é sorteado automaticamente e o jogador vai chutando até acertar com a intençao de acertar com a menor número de tentativas. 
+Jogo para descobrir o número dentro de um determinado intervalo, onde o número é sorteado automaticamente e o jogador vai chutando até acertar com a intençao de acertar com o menor número de tentativas. 
 
 Construído usando HTML, CSS e Javascript. 
 
